@@ -1,0 +1,25 @@
+body{
+    background: url(../images/gym-coming-background.png) center center fixed;
+    background-size: cover; 
+    font-family: cursive;
+}
+
+div{
+    background-color: indianred;
+    width: 60%;
+    text-align: center;
+    margin: 50px auto;
+    border-radius: 15px;
+    
+}
+
+button{
+    padding: 15px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+i{
+    color: white;
+}

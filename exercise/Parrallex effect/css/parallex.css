@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+/*    background-color: gray;*/
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+
+
+h1{
+    color: white;
+    text-align: center; 
+    margin: 0;
+    padding: 0;
+    font-size: 32px
+}
+
+
+p{
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.center{
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 200px;
+}

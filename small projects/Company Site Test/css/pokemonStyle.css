@@ -1,0 +1,90 @@
+body{
+    padding-bottom: 20px;
+    color: #5a5a5a;
+}
+
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+   
+}
+
+.navbar-wrapper > .container{
+    padding-right: 0;
+    padding-left: 0;
+   
+}
+
+.navbar-wrapper .navbar{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.navbar-wrapper .navbar .container{
+    width: auto;
+
+}
+
+.carousel{
+    height: 500px;
+    margin-bottom: 50px;    
+     
+}
+
+.carousel .item{
+    height: 500px;
+    background-color: #777;
+    
+}
+
+.carousel-inner > .item > img{
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.team .col-lg-4{
+    text-align: center;
+    margin-top: 40px;
+    font-family: fantasy;
+}
+
+.team p{
+    margin: 10px; 20px;
+}
+
+.divider{
+    margin: 40px  0;
+}
+
+.mickey{
+    padding-left: 50px;
+    padding-top: 150px;
+    text-align: center;
+}
+
+.content{
+    margin-bottom: 30px;
+}
+
+footer{
+    margin: 0 20px
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("../images/slide3.jpeg");
+  /* Set a specific height */
+  min-height: 500px; 
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+

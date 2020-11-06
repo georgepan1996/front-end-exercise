@@ -1,0 +1,14 @@
+body{
+    padding-top: 20px;
+}
+
+.nav-justified{
+    background-color: #eee;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.nav-justified > li > a{
+    padding: 15px 0;
+}
+

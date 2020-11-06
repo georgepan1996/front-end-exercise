@@ -1,0 +1,39 @@
+body{
+    height: 100%;
+}
+
+video{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50%;
+    margin-left: -50%;
+    z-index: 1;
+
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: azure
+}
+
+a{
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    font-size:25px;
+    color: red;
+    border: 2px solid red;
+}
+
+div{
+    position: relative;
+    z-index: 2;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}

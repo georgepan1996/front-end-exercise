@@ -1,0 +1,15 @@
+body{
+    font-family: 'Rosario', sans-serif;
+}
+
+.nav-sidebar{
+    margin-left: 10px;
+}
+
+.nav-sidebar>li>a{
+    padding: 20px;
+}
+
+.main{
+    background-color: lightgray
+}

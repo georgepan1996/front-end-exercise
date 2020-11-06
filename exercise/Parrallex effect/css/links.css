@@ -1,0 +1,32 @@
+a{
+    font-size: 35px;
+    text-decoration: none;
+    background-color: aqua;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+a:link{
+    color: aliceblue;
+}
+
+a:hover{
+    background-color: silver;
+}
+
+a:active{
+    background-color: black;
+    color: bisque;
+}
+
+a:visited{
+    background-color: indianred;
+    color: black;
+}
+
+em{
+    display: inline-block;
+    height: 30px;
+    width: 100px
+}
